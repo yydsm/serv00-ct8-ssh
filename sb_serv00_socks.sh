@@ -19,7 +19,7 @@ WORKDIR="/home/${USERNAME}/logs"
 
 # 定义变量
 export LC_ALL=C
-export UUID=${UUID:-'5195c04a-552f-4f9e-8bf9-216d257c0839'}
+export UUID=${UUID:-'8e8c9427-23d8-4b80-a3ca-32ebba3a6816'}
 export NEZHA_SERVER=${NEZHA_SERVER:-'nezha.yutian81.top'} 
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}     
 export NEZHA_KEY=${NEZHA_KEY:-''} 
@@ -30,7 +30,7 @@ export hy2_port=${hy2_port:-'41000'}
 export socks_port=${socks_port:-'42000'}
 export socks_user=${socks_user:-'abc123'}
 export socks_pass=${socks_pass:-'abc456'}
-export CFIP=${CFIP:-'fan.yutian.us.kg'} 
+export CFIP=${CFIP:-'whatismyipaddress.com'} 
 export CFPORT=${CFPORT:-'443'} 
 
 # 定义文件下载地址
